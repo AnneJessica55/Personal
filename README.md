@@ -1,2 +1,2 @@
-# Personal
- Esse é meu site pessoal. Aqui está um pouco sobre mim e sobre os principais projetos que desenvolvi.
+# Primeiro_Site_SENAC
+ Esse site é para fins de aprendizado
